@@ -16,6 +16,16 @@ X2Griffon integrates:
 
 Evolved from earlier AmUP01 / MAD-AP prototypes.
 
+## Maiden flight
+
+**19 September 2026** · Casey, IL (1H8) → S 5th Pl woods, Vigo County, IN  
+Lift 1:17 PM CDT · land 3:54 PM CDT · 25.7 nmi / 093° · burst card 90,356 ft · KE9CFY
+
+Flight product (canonical JSON):
+
+- [flights/2026-09-19-x2griffon.json](https://github.com/Midwest-Stratospheric/msds-data/blob/main/flights/2026-09-19-x2griffon.json) in **msds-data**
+- Local note: [flights/2026-09-19-maiden.md](flights/2026-09-19-maiden.md)
+
 ## Goals
 
 - Collect high-quality atmospheric data (temperature, humidity, wind profiles, imagery)
@@ -27,10 +37,11 @@ Evolved from earlier AmUP01 / MAD-AP prototypes.
 
 - Company website: [midwestsds.com](https://www.midwestsds.com)
 - Website source: [msds-website](https://github.com/Midwest-Stratospheric/msds-website)
+- Flight / ground data: [msds-data](https://github.com/Midwest-Stratospheric/msds-data)
 
 ## Status
 
-Active development. Maiden public launch planned in the Casey, Illinois area.
+Maiden science flight flown 19 September 2026. Cold-battery dropout on primary systems; xFall2 reported landing. Open package in msds-data.
 
 ---
 
