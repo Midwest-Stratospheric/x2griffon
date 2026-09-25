@@ -33,6 +33,12 @@ Flight product (canonical JSON):
 - Support open science, tornado research, environmental monitoring, and education
 - Reliable, affordable, DIY-friendly yet professional-grade HAB technology made in the Midwest
 
+## Collaboration
+
+Flight products from X2Griffon land in the open UOGW commons and on xDataHub, our public open atmospheric data dashboard: https://www.midwestsds.com/msds-data-hub.html. The full flown archive, including the Sep 12, 2026 x1Albatross envelope check, is at https://www.midwestsds.com/flights.html. Launches are private science missions; the archive and data are public.
+
+Payload builders, HAB researchers, and ham radio groups who want to collaborate on data or tooling can email space@aerostratospheric.com or book a 15 minute intro at https://calendly.com/aerostratospheric/15min
+
 ## Related
 
 - Company website: [midwestsds.com](https://www.midwestsds.com)
